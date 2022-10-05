@@ -1,0 +1,115 @@
+#footer{
+    padding: 100px;
+    padding-bottom: 30px;
+    background-color: #191919;
+}
+
+
+.footer-logo{
+    position: relative;
+
+    h2{
+        
+    font-family: 'Barlow Condensed';
+    color: #fff;
+    font-weight: 700;
+    font-size: 35px;
+    }
+    &::after{
+        position: absolute;
+        content: "";
+        bottom: 6px;
+        left: 104px;
+        width: 9px;
+        height: 9px;
+        background-color: #FF4655;
+        border-radius: 50%;
+    }
+
+
+}
+
+
+.footer-text{
+    p{
+        font-family: 'Oswald';
+        color: #666666;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 24px;
+        text-transform: uppercase;
+    }
+}
+
+.footer-icon{
+    margin-top: 40px;
+    margin-left: -5px;
+    a{ 
+        margin: 0 5px;
+        i{
+            height: 40px;
+            width: 40px;
+            background-color: #212529;
+            color: #fff;
+            text-align: center;
+            line-height: 40px;
+            border-radius: 50%;
+
+            &:hover{
+                background-color: #FF4655;
+                transition: 0.5s ease;
+            }
+        }
+    }
+}
+
+
+.footer-link{
+    h4{
+        color: #fff;
+        font-family: 'Barlow Condensed';
+        letter-spacing: 0.07em;
+        font-weight: 600;
+        font-size: 25px;
+        line-height: 30px;
+
+        a{
+            
+            font-family: 'Oswald';
+            color: #666666;
+            font-weight: 400;
+            font-size: 16px;
+            line-height: 24px;
+            letter-spacing: 0;
+
+            &:hover{
+                color: #FF4655;
+                transition: 0.5s;
+            }
+        }
+    }
+}
+
+.footer-img{
+    img{
+        height: 80px;
+        width: 80px;
+    }
+}
+
+.footer-bottom{
+    margin-top: 60px;
+    border-top: 1px solid #666666;
+    h5{
+        margin-top: 30px;
+        font-family: 'Barlow Condensed';
+        color: #FFFFFF;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 24px;
+
+        span{
+            color: #FF4655;
+        }
+    }
+}

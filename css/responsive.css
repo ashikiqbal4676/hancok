@@ -1,0 +1,510 @@
+@media(max-width: 575.98px){
+
+
+
+
+}
+
+
+
+
+
+@media(min-width:576px) and (max-width:767.98px){
+
+    
+
+}
+
+
+
+
+@media(max-width:767.98px){
+
+    .menu-bg i{
+        color: #fff !important;
+    }
+
+    .navbar-light .navbar-toggler {
+        border-color: #fff !important;
+    }
+
+    .menu-bg ul{
+        text-align: center;
+    }
+
+    .right {
+        margin-left: 150px;
+        margin-top: 10px;
+    }
+
+    .menu-bg ul li a::after {
+        width: 0px;
+    }
+
+    .navbar-toggler:focus{
+        box-shadow: none;
+    }
+
+    .banner-text{
+        text-align: center;
+    }
+
+    #banner .banner-text h1::after {
+        bottom: -102px;
+        right: 239px;
+        background-color: #fff;
+    }
+
+    .banner-btn{
+        margin-top: 92px !important;
+    }
+
+    #banner .banner-icon {
+        margin-left: 275px;
+        margin-top: -40px;
+    }
+
+    #banner {
+        padding-top: 187px;
+
+    }
+
+
+    .about-text{
+        margin-top: 40px;
+    }
+
+    .about-btn {
+        margin-left: 166px;
+        margin-top: 40px;
+    }
+
+    .about-item{
+        margin-bottom: 40px;
+    }
+
+
+    #popilar .next {
+        bottom: 12px;
+        right: 401px;
+        height: 30px;
+        width: 30px;
+        line-height: 30px;
+    }
+
+    #popilar .prev {
+        bottom: 12px;
+        right: 349px;
+        height: 30px;
+        width: 30px;
+        text-align: center;
+        line-height: 30px;
+    }
+
+    #video .macth-time .macth-text span {
+        margin-left: 204px;
+    }
+
+    #video .macth-inner .macth-text img {
+        margin-left: 230px;
+    }
+    .sale-head h2 {
+        font-size: 43px;
+    }
+
+    .sale-head h2::after {
+        right: 102px;
+    }
+
+    .cetagori-item {
+        margin-left: 6px;
+        margin-top: 50px;
+    }
+
+    .cetalog-btn{
+        margin-top: 30px;
+    }
+
+    .team-head h2::after {
+        left: 320px;
+    }
+
+    .team-itam .team-btm .team-btm-text h4 {
+                display: none !important;
+   
+    }
+    .team-itam .team-btm .team-btm-text p {
+                display: none !important;  
+    }
+
+    .team-itam .team-btm .team-icon {
+        right: 0px;
+        top: 24px;
+    }
+
+    .team-btm-text {
+        margin-top: 20px !important;
+        margin-left: -17px !important;
+    }
+
+
+    .faq-head h2::after {
+        right: 49px;
+    }
+
+    .faq-itam .faq-text p {
+        margin: 0 -15px;
+    }
+
+    #faq::after {
+        top: 34%;
+        left: 49%;
+        height: 57%;
+    }
+
+    #faq::before {
+        top: 62%;
+        width: 70%;
+    }
+
+    .footer-icon {
+        margin-top: 17px;
+        margin-bottom: 33px;
+    }
+
+
+
+}
+
+
+@media(min-width:768px) and (max-width:991.98px){
+
+    .menu-bg i{
+        color: #fff !important;
+    }
+
+    .navbar-light .navbar-toggler {
+        border-color: #fff !important;
+    }
+
+    .menu-bg ul{
+        text-align: center;
+    }
+
+    .right {
+        margin-left: 150px;
+        margin-top: 10px;
+    }
+
+    .menu-bg ul li a::after {
+        width: 0px;
+    }
+
+    .navbar-toggler:focus{
+        box-shadow: none;
+    }
+
+    .right {
+        margin-left: 239px;
+        margin-top: 10px;
+    }
+
+    .banner-text{
+        text-align: center;
+
+    }
+
+    #banner .banner-text h1::after {
+        bottom: -102px;
+        right: 333px;
+    }
+
+    .banner-btn{
+        margin-top: 92px !important;
+    }
+
+    #banner .banner-icon {
+
+        margin-left: 456px;
+        margin-top: -40px;
+    }
+
+    #banner {
+        padding-top: 187px;
+
+    }
+
+    .about-text{
+        margin-top: 30px;
+    }
+
+    .about-btn{
+        margin-top: 40px;
+    }
+
+    .about-item {
+        margin-bottom: 20px;
+    }
+
+    #popilar .popular-head h2 {
+        font-size: 47px;
+    }
+
+    #popilar .popular-head h2::after {
+        right: 140px;
+    }
+    #popilar .prev {
+        bottom: 29px;
+        right: 23px;
+    }
+
+    #popilar .next {
+
+        bottom: 85px;
+        right: 23px;
+}
+
+#video .vedio-head h2 {
+	font-size: 45px;
+}
+
+#video .vedio-head h2::after {
+
+	left: 181px;
+
+}
+
+#video .macth-time .macth-text span {
+	margin-left: 322px;
+}
+
+#video .macth-inner .macth-text img {
+	margin-left: 390px;
+}
+
+#video .macth-inner .macth-text span {
+	margin-left: 60px;
+}
+
+.sale-head h2 {
+	font-size: 50px;
+}
+
+.sale-head h2::after {
+	right: 111px;
+}
+
+.cetagori-item {
+	margin-left: 60px;
+    margin-top: 20px;
+}
+
+.provide-head h2 {
+	font-size: 40px;
+}
+
+.provide-head h2::after {
+	left: 235px;
+}
+
+.team-btm-text h4{
+    display: none;
+}
+.team-btm-text p{
+    display: none;
+}
+
+.team-btm-text a{
+    margin-top: 31px;
+}
+
+.team-itam .team-btm .team-icon {
+	bottom: 33px;
+}
+
+.team-head h2 {
+	font-size: 46px;
+}
+
+.team-head h2::after {
+	left: 485px;
+}
+
+.faq-head h2 {
+	font-size: 39px;
+}
+
+.faq-head h2::after {
+	right: 208px;
+}
+
+#faq::after {
+	width: 0px;
+}
+
+#faq::before {
+	height: 0px;
+}
+
+
+.faq-itam .faq-text h2 {
+	top: 70px;
+	left: -17px;
+}
+
+.footer-img img {
+	height: 113px;
+	width: 112px;
+}
+
+.footer-icon {
+	margin-top: 28px;
+    margin-bottom: 20px;
+}
+
+
+
+
+}
+
+
+
+@media(min-width:992px) and (max-width:1199.98px){
+
+    .right .nav-img {
+        margin: 0px -60px;
+    }
+
+    #banner .banner-text h1 {
+        font-size: 36px;
+    }
+
+    #banner .banner-text h1::after {
+        right: -3px;
+    }
+
+    #banner .banner-icon {
+        margin-top: 72px;
+    }
+
+    .about-head h2 {
+        font-size: 24px;
+        line-height: 42px;
+    }
+
+    .about-head h2::after {
+        left: 139px;
+    }
+    .about-img{
+        margin-top: 100px;
+    }
+
+    .about-item{
+        padding: 0 20px;
+    }
+
+    .about-item .about-btm .about-btm-tex h2::after {
+        width: 0px;
+        height: 0px;
+    }
+
+    #popilar .popular-head h2::after {
+        right: 183px;
+    }
+
+    #video .vedio-head h2 {
+        font-size: 32px;
+    }
+
+    #video .vedio-head h2::after {
+        left: 132px;
+    }
+
+    #video .macth-time .macth-text span {
+        font-size: 16px;
+    }
+
+    #video .macth-inner .macth-text span {
+        font-size: 18px;
+    }
+
+    .sale-head h2 {
+        font-size: 30px;
+    }
+
+    .sale-head h2::after {
+        right: 75px;
+    }
+
+    .sale-item .sale-text h3 {
+        font-size: 16px;
+    }
+
+    .provide-head h2 {
+        font-size: 32px;
+    }
+
+    .provide-head h2::after {
+        left: 196px;
+    }
+
+    .team-head h2 {
+        font-size: 29px;
+    }
+
+    .team-head h2::after {
+        bottom: 12px;
+        left: 206px;
+    }
+
+    .team-itam .team-btm .team-btm-text h4 {
+        font-size: 26px;
+    }
+
+    .team-itam .team-btm .team-btm-text p {
+        font-size: 10px;
+    }
+
+    .faq-head h2 {
+        font-size: 25px;
+    }
+
+    .faq-head h2::after {
+        bottom: 13px;
+        right: 220px;
+    }
+
+    #faq::before {
+        width: 74%;
+    }
+
+    .footer-img img {
+        height: 69px;
+        width: 69px;
+    }
+
+}
+
+
+
+@media(min-width:1200px) and (max-width:1399.98px){
+
+    #banner .banner-icon {
+        margin-top: 65px;
+    }
+
+    .nav-item li {
+        padding: 0px 0px !important;
+    }
+
+    .menu-bg ul li a::after {
+        position: absolute;
+        content: "";
+        bottom: -10px;
+        left: 6px;
+        width: 81%;
+        height: 1px;
+        background-color: #FF4655;
+        opacity: 0;
+    }
+}
